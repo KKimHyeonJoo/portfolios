@@ -1,7 +1,6 @@
-# 📂 김현주 (Kim Hyeon Joo) — Data Analysis & AI/ML Portfolio
+# 📂 Data Analysis & AI/ML Portfolio
 
 > 데이터 기반 문제 해결과 AI 모델링을 중심으로 한 프로젝트 포트폴리오 모음입니다.  
-> 각 프로젝트는 데이터 전처리 → 모델링 → 성능 평가 → 시사점 도출까지 전 과정을 포함합니다.
 
 ---
 
